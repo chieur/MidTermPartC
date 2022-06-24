@@ -1,5 +1,7 @@
 package midtermexam_versiona_extensioncode;
 
+// comment for question 5
+
 /**
 	The user profile for the OnlineVids system.
 	The user has a userID and a favorite genre that must be one of the choices in the genres array.

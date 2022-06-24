@@ -1,13 +1,13 @@
 package midtermexam_versiona_extensioncode;
 
 /**
- * The user profile for the OnlineVids system. The user has a userID
- * and a favorite genre that must be one of the choices in the
- * genres array. This code is to be used for SYST 17796 midterm exam.
- * Students are reminded to add themselves as modifiers when editing the
- * code.
- * @author dancye, 2019
- */
+	The user profile for the OnlineVids system. The user has a userID
+	and a favorite genre that must be one of the choices in the
+	genres array. This code is to be used for SYST 17796 midterm exam.
+	Students are reminded to add themselves as modifiers when editing the
+	code.
+	@author dancye, 2019
+*/
 public class UserProfile {
 	private String userID;// the userID
 	private Genre genre;// the user's preferred genre of movie
